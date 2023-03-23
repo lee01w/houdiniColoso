@@ -1,5 +1,6 @@
 backup/
 render/
 tex/
+precomp/
 *.png
 *.exr
